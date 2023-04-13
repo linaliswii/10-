@@ -1,0 +1,11 @@
+C:\Users\Ангелина\source\repos\д02\д02\bin\Debug\д02.exe.config
+C:\Users\Ангелина\source\repos\д02\д02\bin\Debug\д02.exe
+C:\Users\Ангелина\source\repos\д02\д02\bin\Debug\д02.pdb
+C:\Users\Ангелина\source\repos\д02\д02\obj\Debug\д02.csproj.AssemblyReference.cache
+C:\Users\Ангелина\source\repos\д02\д02\obj\Debug\д02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ангелина\source\repos\д02\д02\obj\Debug\д02.Form1.resources
+C:\Users\Ангелина\source\repos\д02\д02\obj\Debug\д02.Properties.Resources.resources
+C:\Users\Ангелина\source\repos\д02\д02\obj\Debug\д02.csproj.GenerateResource.cache
+C:\Users\Ангелина\source\repos\д02\д02\obj\Debug\д02.csproj.CoreCompileInputs.cache
+C:\Users\Ангелина\source\repos\д02\д02\obj\Debug\д02.exe
+C:\Users\Ангелина\source\repos\д02\д02\obj\Debug\д02.pdb
